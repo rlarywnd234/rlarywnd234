@@ -19,8 +19,8 @@
   <img src="https://user-images.githubusercontent.com/46700349/51174126-a66b3080-18e9-11e9-8f35-08bfc68f7616.png" title="Uipath" alt="Uipath" width="40"/> 
 </div>
 
---
+---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlarywnd234&theme=highcontrast&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarywnd234&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlarywnd234&theme=highcontrast&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
