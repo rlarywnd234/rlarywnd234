@@ -19,5 +19,5 @@
   <img src="https://user-images.githubusercontent.com/46700349/51174126-a66b3080-18e9-11e9-8f35-08bfc68f7616.png" title="Uipath" alt="Uipath" width="40"/> 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarywnd234&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KKJ&theme=highcontrast)](https://git.io/streak-stats)
